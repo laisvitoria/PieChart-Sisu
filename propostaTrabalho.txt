@@ -1,0 +1,32 @@
+PROPOSTA 01 ===========================================================
+Listagem dos anos do sisu e criação de gráfico de pizza para cada ano 
+
+- o gráfico deve representar a porcentagem das médias dos 5 cursos com médias mais altas, e o resto.
+para isso devo:
+	- juntar os arquivos de alguns anos do sisu em um só
+ 	- definir onde inicia um novo ano e onde acaba
+	- somar as notas obtidas em todos os cursos
+	- calcular a média de cada curso
+	- calcular quanto isso representa em relação ao todo
+	- somar as 5 maiores medias e retirar do todo
+	- criar o gráfico
+
+
+PROPOSTA 02 ===========================================================
+Criação de gráfico para verificar de onde são os alunos de cada curso
+	- selecionar os lugares com mais alunos e representar sua porcentagem no gráfico
+
+-selecionar o curso
+-agrupar por estado
+-calcular a porcentagem de pessoas daquele estado em relação ao total de inscritos naquele curso
+-criar o gráfico
+
+
+Nesse caso preciso saber o estado, a quantidade de pessoas desse estado,
+e o total de pessoas inscritas no curso
+
+tables ganerate
+
+comentarios em java.doc
+read.me
+
